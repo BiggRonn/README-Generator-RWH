@@ -1,3 +1,12 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+
+
+
+
+
 # README-Generator-RWH
 A program to automatically generate a README for projects based on inputs by user
 
