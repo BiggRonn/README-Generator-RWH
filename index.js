@@ -12,13 +12,23 @@ const questions = [
     },
     {
         type: "input",
-        name: "installSteps",
+        name: "install",
         message: "what is the command to install your project?"
+    },
+    {
+        type: "input",
+        name: "test",
+        message: "How do you test the project?"
     },
     {
         type: "input",
         name: "usage",
         message: "Provide instructions and examples for use"
+    },
+    {
+        type: "input",
+        name: "contribute",
+        message: "How can we contribute to your project?"
     },
     {
         type: "list",
