@@ -13,7 +13,9 @@ const questions = [
     {
         type: "input",
         name: "install",
-        message: "what is the command to install your project?"
+        message: "what is the command to install your project?",
+        default: "npm i"
+        
     },
     {
         type: "input",

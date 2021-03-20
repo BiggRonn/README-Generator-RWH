@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   let retLicense = {
     MIT : "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
     ISC : "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)",
-    GNP : "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)",
+    Unlicense : "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)",
     Apache: "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
 }
 
@@ -15,10 +15,10 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   let retLicense = {
-    MIT : "[MIT]Link Here",
-    ISC : "[ISC]Link Here",
+    MIT : "[MIT License]https://www.mit.edu/~amini/LICENSE.md",
+    ISC : "[ISC License]https://www.isc.org/licenses/",
     Unlicense : '[Unlicense]<https://unlicense.org>',
-    Apache: "[Apache]http://www.apache.org/licenses/LICENSE-2.0" 
+    Apache: "[Apache License]http://www.apache.org/licenses/LICENSE-2.0" 
 }
 
   return retLicense[license]

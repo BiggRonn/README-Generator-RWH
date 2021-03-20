@@ -1,7 +1,7 @@
 
   
   
-  # GENERATEAREIW
+  # Title of Project HERE
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
   ​
@@ -33,7 +33,7 @@
   ​
   ## Usage
   ​
-  "Press F for respect"
+  press f for respect
   ​
   ## License
   ​
@@ -41,16 +41,16 @@
     
   ## Contributing
   ​
-  "Please don't help, leave me alone"
+  you can go to the bottom of the page for my GitHub and email link
   ​
   ## Tests
   ​
   To run tests, run the following command:
   ​
   ```
-  TESTSETEST1
+  jest probably idk
   ```
   ​
   ## Questions
   ​
-  If you have any questions about the repo, open an issue or contact me directly at BigRonald42@hotmail.com. You can find more of my work at [BiggRonn](https://github.com/BiggRonn/).
+  If you have any questions about the repo, open an issue or contact me directly at BigRonald42@hotmail.com. You can find more of my work at [GitHub](https://github.com/BiggRonn/).
